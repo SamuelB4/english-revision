@@ -19,6 +19,11 @@ html {
         display: inline-block;
         top: 150px;
     }
+
+    #back {
+        display: inline-block; text-decoration: none; color: black;
+        text-align: left;
+    }
   }
   
   .macbeth {
