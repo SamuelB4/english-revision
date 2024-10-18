@@ -1,6 +1,9 @@
 html {
     text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
 
 .container {
     width: 100%;
