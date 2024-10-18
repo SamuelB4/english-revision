@@ -1,3 +1,7 @@
+html {
+    text-align: center;
+}
+
 .container {
     width: 100%;
     height: 100vh;
@@ -6,25 +10,25 @@
   .toppane {
     width: 100%;
     height: 100px;
-    background-color: #4da6ff;
+    background: linear-gradient(to bottom right, rgb(91, 138, 105), rgb(42, 60, 83)) no-repeat;
   }
   
-  .leftpane {
-    width: 25%;
+  .macbeth {
+    width: 33%;
     height: 100vh;
-    background-color: rosybrown;
+    background: linear-gradient(to bottom left, rgb(170, 39, 39), rgb(88, 7, 7)) no-repeat;
   }
   
-  .middlepane {
-    width: 50%;
+  .anInspectorCalls {
+    width: 33%;
     height: 100vh;
-    background-color: royalblue;
+    background: linear-gradient(to bottom right, rgb(48, 39, 170), rgb(18, 13, 95)) no-repeat;
   }
   
-  .rightpane {
-    width: 25%;
+  .aChristmasCarol {
+    width: 33%;
     height: 100vh;
-    background-color: yellow;
+    background: linear-gradient(to top right, rgb(168, 170, 39), rgb(75, 77, 9)) no-repeat;
   }
   
   body {
