@@ -23,7 +23,7 @@ html {
   
   .macbeth {
     width: 33%;
-    height: 100vh;
+    height: auto;
     background: linear-gradient(to bottom left, rgb(170, 39, 39), rgb(88, 7, 7)) no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@ html {
   
   .anInspectorCalls {
     width: 34%;
-    height: 100vh;
+    height: auto;
     background: linear-gradient(to bottom right, rgb(48, 39, 170), rgb(18, 13, 95)) no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
@@ -49,7 +49,7 @@ html {
   
   .aChristmasCarol {
     width: 33%;
-    height: 100vh;
+    height: auto;
     background: linear-gradient(to top right, rgb(168, 170, 39), rgb(75, 77, 9)) no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
