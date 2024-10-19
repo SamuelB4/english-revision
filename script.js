@@ -1,6 +1,6 @@
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
     // true for mobile device
-    document.querySelectorAll("p").style.fontSize = "6px";
-    document.querySelectorAll("h1").style.fontSize = "16px";
-    document.querySelectorAll("h3").style.fontSize = "12px";
+    document.querySelectorAll(".text").style.fontSize = "6px";
+    document.querySelectorAll(".h1").style.fontSize = "16px";
+    document.querySelectorAll(".h3").style.fontSize = "12px";
 }
