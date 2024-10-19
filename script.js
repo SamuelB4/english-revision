@@ -7,6 +7,4 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
     text.style.fontSize = "6px";
     h1.style.fontSize = "16px";
     h3.style.fontSize = "12px";
-  }else{
-    // false for not mobile device
   }
