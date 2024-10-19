@@ -1,8 +1,5 @@
 html {
     text-align: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background: linear-gradient(to top right, #83256e, #312fad) no-repeat;
 }
 
 .date {
@@ -37,6 +34,14 @@ html {
     .t {
         display: inline-block;
         top: 150px;
+    }
+
+    #links {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background: rgb(2,0,36);
+        background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,0.4962359943977591) 61%, rgba(0,212,255,1) 100%);
+        border-radius: 10px;
     }
   }
   
