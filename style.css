@@ -28,13 +28,8 @@ html {
   
   .toppane {
     width: 100%;
-    height: 100px;
+    height: 150px;
     background: linear-gradient(to bottom right, rgb(91, 138, 105), rgb(42, 60, 83)) no-repeat;
-
-    .t {
-        display: inline-block;
-        top: 150px;
-    }
 
     #links {
         background-size: cover;
