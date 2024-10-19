@@ -82,7 +82,7 @@ html {
         font-size: 12;
     }
 
-    #downbutton {
+    .button {
         display: inline-block;
         border-radius: 10px;
         color: rgb(142, 129, 211);
