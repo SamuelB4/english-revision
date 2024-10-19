@@ -2,6 +2,7 @@ html {
     text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background: linear-gradient(to top right, #83256e, #312fad) no-repeat;
 }
 
 .date {
