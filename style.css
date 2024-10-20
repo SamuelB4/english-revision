@@ -1,5 +1,6 @@
 html {
     text-align: center;
+    background: linear-gradient(to bottom right, rgb(91, 138, 105), rgb(42, 60, 83)) no-repeat;
 }
 
 .date {
